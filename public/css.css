@@ -1,0 +1,102 @@
+body{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+
+}
+
+
+
+
+#navbar{
+padding: 1%;
+
+}
+
+.navcontent{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    color:darkslategrey;
+    font-size: 25px;
+    float: inline-start;
+
+   
+    
+}
+
+
+#carrito {
+    float: right;
+    border: none;
+    cursor: pointer;
+
+}
+
+.carro{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+
+
+}
+
+
+
+
+
+
+#welcome{
+    text-align: center;
+    color: darkslategray;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+}
+
+#bienvenida{
+margin-top: 5%;
+}
+
+.caja{
+    width: 100%;
+    float:left ;
+    margin-bottom: 2%;
+text-align: center;    }
+
+#cajas img:hover{
+
+    transform: scale(1.1);
+            transition: all;
+            transition-duration:1.0s;
+            cursor: pointer;
+        
+}
+
+.caja h2 {
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.caja h3{
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+.caja button{
+border-radius: 100px;
+cursor: pointer;
+width: 30%;
+height: 35px;
+
+background-color: darkseagreen;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(31, 71, 82);
+}
+
+
+
+
