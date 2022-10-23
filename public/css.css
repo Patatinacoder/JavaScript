@@ -1,0 +1,72 @@
+body{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+
+}
+
+
+#monedas{
+    font-family:'Times New Roman', Times, serif;
+    color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.card-title{
+    font-family:'Times New Roman', Times, serif;
+    color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+}
+
+.card-subtitle{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(79, 47, 66);
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+}
+
+.card-text{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(26, 67, 100);
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+}
+
+.btn-primary{
+    background-color: darkslategrey;
+    font-family:'Times New Roman', Times, serif;
+    color: ffff;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 3%;
+}
+
+.text-right{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(79, 47, 66);
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+    font-size:larger;
+}
+
+
+.btn-danger{
+    background-color: darkslategrey;
+    font-family:'Times New Roman', Times, serif;
+    color: ffff;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 1%;
+}
